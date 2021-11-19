@@ -1,0 +1,42 @@
+
+
+.avp{
+    text-align: center;
+}
+
+.center-img {
+    text-align: center;
+    border-radius: 15cm;
+  }
+
+.center-img2 {
+    text-align: center;
+    border-radius: 15cm;
+    box-shadow: 0 0 cm;
+}
+
+.center-img3 {
+    text-align: center;
+    border-radius:15cm;
+    
+}
+
+.block {
+    height: 450px;
+    border-radius: 15px;
+   
+}
+
+.block {
+    background: url(https://img.championat.com/c/1350x759/news/big/y/f/v-cs-go-startovala-novaya-operaciya-riptide-chto-novogo_16322983754024851.jpg ) 0 0/100% auto no-repeat ;
+}
+
+.block{
+    background: url('https://img.championat.com/c/1350x759/news/big/y/f/v-cs-go-startovala-novaya-operaciya-riptide-chto-novogo_16322983754024851.jpg') 0 0/100%  no-repeat fixed ;
+}
+
+.footer  { 
+    font-size: 24px;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
